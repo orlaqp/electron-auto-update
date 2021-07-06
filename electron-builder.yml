@@ -1,0 +1,4 @@
+appId: com.orlastudio.ElectronAutoUpdate
+publish:
+  provider: github
+  token: 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
