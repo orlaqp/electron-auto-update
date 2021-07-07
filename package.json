@@ -1,6 +1,6 @@
 {
   "name": "electron-auto-update",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test project to prove electron auto update capability",
   "main": "index.js",
   "scripts": {
